@@ -87,7 +87,6 @@ Seller contribution is highly concentrated among top sellers
 
 Delivery delays are more frequent in bulky product categories
 
-Revenue decline in late 2018 is caused by dataset cut-off, not performance drop
 
 ### 🧠 What I Learned
 
